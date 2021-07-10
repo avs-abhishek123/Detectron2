@@ -1,0 +1,2 @@
+# Detectron2
+Detectron is Facebook AI Research’s (FAIR) software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework. Detectron model is meant to advance object detection by offering speedy training and addressing the issues companies face when making the step from research to production.
