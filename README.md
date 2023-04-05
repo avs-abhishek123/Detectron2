@@ -1,4 +1,6 @@
-<center><img src = 'https://github.com/avs-abhishek123/Detectron2/blob/c0b9dd859690f630610a8b4fa83aaaae03b4cc08/detectron2_cover.png' width = 920 height = 500 "></center>
+<center>
+  <img src = 'https://github.com/avs-abhishek123/Detectron2/blob/c0b9dd859690f630610a8b4fa83aaaae03b4cc08/detectron2_cover.png' width = 975 height = 500 ">
+</center>
 
 <h1 align ="left" style="color: purple; font-size: 80px;"><b><u>Detectron2 Object Detection & Manipulating Images using Cartoonization</u></b></h1>
 
