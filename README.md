@@ -45,7 +45,7 @@ Additional backbone architectures may be easily implemented. For more details ab
 
 ---
 
-## Installation, Quick Start: Using Detectron, Model Zoo and Baselines & Update
+## Installation, Quick Start: Using Detectron, Model Zoo and Baselines, Update & License
 
 Please find installation instructions for Caffe2 and Detectron in [`INSTALL.md`](INSTALL.md).
 After installation, please see [`GETTING_STARTED.md`](GETTING_STARTED.md) for brief tutorials covering inference and training with Detectron.
@@ -53,9 +53,6 @@ Model Zoo and Baselines - We provide a large set of baseline results and trained
 - 4/2018: Support Group Normalization - see [`GN/README.md`](./projects/GN/README.md)
 **Detectron is deprecated. Please see [detectron2](https://github.com/facebookresearch/detectron2), a ground-up rewrite of Detectron in PyTorch.**
 
----
-
-## License
 ![](https://github.com/avs-abhishek123/Detectron2/blob/236e72cd3edb57a6a0e41e5ec74f1fdae1730d67/detectron2_logo.png)
 
 Detectron is released under the [Apache 2.0 license](https://github.com/facebookresearch/detectron/blob/master/LICENSE). 
